@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/LouisKlimek/Finviz-Stock-Data">
-    <img src="logo.png" alt="Finviz Stock Data" width="100" height="25">
+    <img src="logo.png" alt="Finviz Stock Data" width="200" height="50">
   </a>
 
   <h3 align="center">Finviz Stock Data</h3>
