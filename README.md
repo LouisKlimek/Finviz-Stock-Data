@@ -8,7 +8,7 @@
   <h3 align="center">Finviz Stock Data</h3>
 
   <p align="center">
-    A comprehensive dataset for stock movement prediction from Finviz Stock Information.
+    A comprehensive dataset for stock movement prediction from Finviz.
     <br />
   </p>
 </p>
