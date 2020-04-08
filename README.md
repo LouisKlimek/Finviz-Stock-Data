@@ -31,7 +31,7 @@
 
 <!-- SAMPLE -->
 ## Sample
-| Ticker | Date |
+| Ticker | Date | Index |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
