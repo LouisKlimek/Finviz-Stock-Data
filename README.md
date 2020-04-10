@@ -5,7 +5,7 @@
     <img src="logo.png" alt="Finviz Stock Data" width="100" height="25">
   </a>
 
-  <h3 align="center">Finviz Stock Data</h3>
+  <h3 align="center">Finviz Stock Dataset</h3>
 
   <p align="center">
     A comprehensive dataset for stock movement prediction from Finviz.
